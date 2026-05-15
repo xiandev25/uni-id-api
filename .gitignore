@@ -1,0 +1,9 @@
+# virtual environment files/folders
+.venv/
+venv/
+
+# Data files
+*.sqlite3
+
+# Byte-compiled / cache files
+**/__pycache__/
