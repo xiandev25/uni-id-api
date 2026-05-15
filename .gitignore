@@ -2,7 +2,7 @@
 .venv/
 venv/
 
-# Data files
+# db files
 *.sqlite3
 
 # Byte-compiled / cache files
